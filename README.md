@@ -1,6 +1,6 @@
 # Expensio — Personal Expense Tracker
 
-Full-stack expense tracker built for the **Riafy Software Engineer Practical Test**.
+Full-stack expense tracker .
 
 | Layer | Choice |
 |-------|--------|
